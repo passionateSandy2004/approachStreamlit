@@ -1,0 +1,33 @@
+{
+    "name": "Emma Ahearn",
+    "email": "hello@reallygreatsite.com",
+    "phone": "+123-456-7890",
+    "education": [
+      {
+        "degree": "Bachelor of Science in Chemistry",
+        "institution": "East State University",
+        "year": "2026-2030"
+      }
+    ],
+    "experience": [
+      {
+        "position": "Undergraduate Research Assistant",
+        "company": "Chemistry Department of East State University",
+        "duration": "2029-2030",
+        "description": "Collaborated with a research team on novel organic compounds, conducted experiments, and analyzed data for publication."
+      }
+    ],
+    "projects": [
+      {
+        "name": "Fabrication of a Miniature Chemical Reactor",
+        "description": "Engineered a small-scale chemical reactor and optimized efficiency and safety."
+      },
+      {
+        "name": "The Green Thumb Chemist",
+        "description": "Implemented environmentally friendly lab practices and educated peers on green chemistry."
+      }
+    ],
+    "skills": ["Organic Chemistry", "Spectroscopy", "Chromatography", "Analytical Techniques"],
+    "awards": ["Dean's List (2026-2030)", "Gold Award, Chemistry Olympiad (2027)"]
+  }
+  

@@ -1,0 +1,40 @@
+{
+    "name": "Richard Sanchez",
+    "email": "hello@reallygreatsite.com",
+    "phone": "+123-456-7890",
+    "education": [
+      {
+        "degree": "Master of Business Management",
+        "institution": "Wardiere University",
+        "year": "2029-2030"
+      },
+      {
+        "degree": "Bachelor of Business",
+        "institution": "Wardiere University",
+        "year": "2025-2029"
+      }
+    ],
+    "experience": [
+      {
+        "position": "Marketing Manager & Specialist",
+        "company": "Borcelle Studio",
+        "duration": "2030 - Present",
+        "description": "Developed and executed marketing strategies and campaigns, led a high-performing marketing team, and monitored brand consistency."
+      },
+      {
+        "position": "Marketing Manager & Specialist",
+        "company": "Fauget Studio",
+        "duration": "2025 - 2029",
+        "description": "Managed budgets, conducted market research, and maintained brand consistency across marketing materials."
+      },
+      {
+        "position": "Marketing Manager & Specialist",
+        "company": "Studio Shodwe",
+        "duration": "2024 - 2025",
+        "description": "Developed relationships with partners, agencies, and vendors, ensuring consistent brand messaging."
+      }
+    ],
+    "skills": ["Project Management", "Public Relations", "Leadership", "Time Management", "Critical Thinking"],
+    "languages": ["English (Fluent)", "French (Fluent)", "German (Basic)", "Spanish (Intermediate)"]
+  }
+  

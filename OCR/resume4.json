@@ -1,0 +1,38 @@
+{
+"name": "Alexander Harper",
+"email": "hello@reallygreatsite.com",
+"phone": "+123-456-7890",
+"education": [
+    {
+    "degree": "Bachelor of Engineering in Computer Science",
+    "institution": "Technoville Institute of Technology",
+    "year": "2025-2029"
+    }
+],
+"experience": [
+    {
+    "position": "Software Developer Intern",
+    "company": "Quantum Innovations",
+    "duration": "2028-2029",
+    "description": "Developed and optimized algorithms for machine learning models, contributed to backend API development, and collaborated with teams to deploy scalable applications."
+    },
+    {
+    "position": "Freelance Web Developer",
+    "company": "Self-Employed",
+    "duration": "2026-2028",
+    "description": "Designed and built responsive websites for small businesses, implemented e-commerce functionality, and provided ongoing technical support."
+    }
+],
+"projects": [
+    {
+    "name": "AI-Powered Chatbot",
+    "description": "Developed a natural language processing chatbot for customer support using Python and TensorFlow."
+    },
+    {
+    "name": "Blockchain-Based Voting System",
+    "description": "Built a secure, transparent voting system using Ethereum smart contracts."
+    }
+],
+"skills": ["Python", "JavaScript", "Machine Learning", "React.js", "Django", "Blockchain Development"],
+"certifications": ["AWS Certified Developer", "Google AI Machine Learning Certification"]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Henrietta Mitchell",
+    "email": "hello@reallygreatsite.com",
+    "phone": "+123-456-7890",
+    "education": [
+      {
+        "degree": "Bachelor of Business Administration",
+        "institution": "Ginyard International Co.",
+        "year": "N/A"
+      },
+      {
+        "degree": "Graduate Project Management Certification",
+        "institution": "Ginyard International Co.",
+        "year": "N/A"
+      },
+      {
+        "degree": "Impact Evaluation Methods 3-Day Short Course",
+        "institution": "Liceria & Co.",
+        "year": "N/A"
+      }
+    ],
+    "experience": [
+      {
+        "position": "Business Analyst Intern",
+        "company": "Arowwai Industries",
+        "duration": "Oct 2023 - Present",
+        "description": "Developed and implemented a streamlined process for gathering business requirements, reducing project delivery time by 15%. Developed a standardized reporting framework for data-driven decision-making."
+      },
+      {
+        "position": "Project Management Assistant",
+        "company": "Hanover and Tyke",
+        "duration": "Jan 2022 - Aug 2023",
+        "description": "Assisted project managers in planning and executing various projects, monitored budgets, and prepared financial reports."
+      },
+      {
+        "position": "Barista",
+        "company": "Giggling Platypus Co.",
+        "duration": "July 2020 - Jan 2022",
+        "description": "Prepared and served a variety of beverages with precision and creativity, receiving compliments for latte art and presentation."
+      }
+    ],
+    "skills": ["Process Improvement", "Data-Driven Strategic Planning", "Cost-Benefit Analysis", "Critical Thinking", "Communication", "Project Management"]
+  }
+  
