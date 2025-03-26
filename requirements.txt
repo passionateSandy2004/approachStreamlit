@@ -1,0 +1,9 @@
+flask>=2.0.0
+torch>=1.9.0
+sentence-transformers>=2.2.0
+google-generativeai
+gunicorn==20.1.0
+streamlit>=1.31.0
+requests>=2.31.0
+Pillow>=10.0.0
+python-dotenv>=1.0.0
